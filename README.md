@@ -1,6 +1,6 @@
-# 自用资源 release
+# release
 
 ## tvbox
 
-- **：[https://ichenc.github.io/-/](https://ichenc.github.io/-/)**
+- **访问地址：[永久发布页](https://晨晨.xyz/-/)**
 
